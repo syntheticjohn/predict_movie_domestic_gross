@@ -1,2 +1,2 @@
 # predict_movie_revenue
-Linear regression model to predict the domestic gross of a particular movie before its release
+Predict domestic gross revenue of movies before release using web scraping and linear regression models
