@@ -2,8 +2,9 @@
 Predict domestic gross revenue of movies before release using web scraping and linear regression models
 
 This repo contains:
-- **apple_tweets_preprocessing.ipynb**: data preprocessing
-- **apple_tweets_modeling.ipynb**: 
-- **chat_words_str.txt**: 
+- **movies_web_scraping.ipynb**: web scraping
+- **movies_preprocessing.ipynb**: data preprocessing
+- **movies_eda.ipynb**: 
+- **movies_modeling.txt**: 
 - **helper_functions.py**: 
-- **apple_tweets_nlp_slides.pdf**: 
+- **movies_revenue_predictions_slides.pdf**: 
