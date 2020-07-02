@@ -5,6 +5,6 @@ This repo contains:
 - **movies_web_scraping.ipynb**: web scraping
 - **movies_preprocessing.ipynb**: data preprocessing
 - **movies_eda.ipynb**: 
-- **movies_modeling.txt**: 
+- **movies_modeling.ipynb**: 
 - **helper_functions.py**: 
 - **movies_revenue_predictions_slides.pdf**: 
