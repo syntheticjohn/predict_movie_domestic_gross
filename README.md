@@ -7,4 +7,5 @@ This repo contains:
 - **movies_eda.ipynb**: 
 - **movies_modeling.ipynb**: 
 - **helper_functions.py**: 
-- **movies_revenue_predictions_slides.pdf**: 
+- **data**: pickled files
+- **movies_revenue_predictions_slides.pdf**: pdf of project presentation slides
