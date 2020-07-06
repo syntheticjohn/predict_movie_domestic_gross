@@ -1,7 +1,9 @@
 # Predicting Movie Revenue Before Release
+
+**Project overview:**
 Predict domestic gross revenue of movies before release using web scraping and linear regression models with regularization 
 
-This repo includes:
+**This repo includes:**
 
 - **movies_web_scraping.ipynb**: web scraping
 - **movies_preprocessing.ipynb**: data preprocessing
