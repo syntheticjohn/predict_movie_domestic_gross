@@ -9,10 +9,11 @@
 
 **This repo includes:**
 
-- **movies_web_scraping.ipynb**: web scraping
-- **movies_preprocessing.ipynb**: data preprocessing
-- **movies_eda.ipynb**: 
-- **movies_modeling.ipynb**: 
+- **__main__.py**: main py file to execute web scraping and data preprocessing tasks
+- **movies_web_scraping.py**: web scraping functions 
+- **movies_preprocessing.py**: data preprocessing and feature engineering functions
+- **movies_eda.ipynb**: exploratory analysis 
+- **movies_modeling.ipynb**: modeling
 - **helper_functions.py**: 
 - **data**: pickled files
 - **movies_revenue_predictions_slides.pdf**: pdf of project presentation slides
